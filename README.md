@@ -1,4 +1,4 @@
-![logo](https://github.com/igauravgupta/igauravgupta/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/igauravgupta/igauravgupta/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
 <h3 align="center">CS undergrad and Backend Developer</h3>
 
