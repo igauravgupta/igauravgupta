@@ -1,18 +1,15 @@
 ![logo](https://github.com/igauravgupta/igauravgupta/blob/main/Untitled%20design%20(8).png)
 <h1 align="center">Hi 👋, I'm Gaurav Gupta</h1>
-<h3 align="center">CS undergrad and Backend Developer</h3>
+<h3 align="center">CS undergrad and Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igauravgupta&label=Profile%20views&color=0e75b6&style=flat" alt="igauravgupta" /> </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🌱 I’m currently learning **DevOps and GenAI**
 
-- 🔭 I’m currently working on **Building a professional learning management system (LMS) using Node.js**
+- 💬 Ask me about **Web Developemnt - MERN, Problem Solving **
 
-- 🌱 I’m currently learning **WebRTC,Websockets etc.**
-
-- 💬 Ask me about **Node.js, Express.js, MongoDB**
-
-- 📫 How to reach me **gaurav.gupta7753@gmail.com**
+- 📫 How to reach me **gaurav33devgmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
