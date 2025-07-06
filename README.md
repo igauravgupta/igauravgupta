@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_gaurav_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gaurav_c" height="30" width="40" /></a>
+<a href="https://twitter.com/igauravgupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gaurav_c" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/i-gauravgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-gauravgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurav_chhirolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_chhirolya" height="30" width="40" /></a>
+<a href="https://instagram.com/gaurav.chhirolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav.chhirolya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/igauravgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="igauravgupta" height="30" width="40" /></a>
 </p>
 
