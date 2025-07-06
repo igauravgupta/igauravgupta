@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development - MERN, Problem Solving**
 
-- 📫 Reach me at - **gaurav33devgmail.com**
+- 📫 Reach me at - **gaurav33dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
