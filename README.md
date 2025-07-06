@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DevOps and GenAI**
 
-- 💬 Ask me about **Web Developemnt - MERN, Problem Solving **
+- 💬 Ask me about **Web Development - MERN, Problem Solving**
 
-- 📫 How to reach me **gaurav33devgmail.com**
+- 📫 Reach me at - **gaurav33devgmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
